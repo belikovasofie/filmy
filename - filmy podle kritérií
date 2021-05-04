@@ -1,0 +1,16 @@
+- filmy podle kritérií
+  - rok vydání
+  - rating 0-10
+  - žánr
+  - keywords (dopředu bychom si připravily několik desítek slov, jako vesmír, láska, válka atd.)
+- populární filmy / herci
+- filmy / herci podle názvu
+
+
+https://developers.themoviedb.org/3/
+
+Kvíz by mohl vypadat takto:
+1. Otázka na pocit - vycházelo by z žánru (nebo keywords "sad", "love", "lonely" atd)
+2. Otázka na časové období - třeba fotky z různých dekád, náhodně se zeptat např. na 30, 60, 80 léta, pokaždé by bylo jinak
+3. Otázka na místo apod - vycházelo by z keywords ("space", "sea", "city" atd)
+4. Jak moc se uživatel cítí "dobrodružně" - podle toho minimální hodnocení
